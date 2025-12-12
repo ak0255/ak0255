@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://your.site"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:aking@example.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/yourid"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://your.blog"><img src="https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://github.com/ak0255"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:aokylar@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ak0255"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://github.com/ak0255"><img src="https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
 <p align="center">
